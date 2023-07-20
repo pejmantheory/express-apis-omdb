@@ -47,8 +47,7 @@ to a route like `/movies/tt234323` (where `tt234323` is the IMDBid for that movi
 
 * The movie api returns an array of movies inside the `Search` Key.
 
-* [Example Search URL: http://www.omdbapi.com/?s=matrix](http://www.omdbapi.com/?s=matrix)
-* [Example Movie Detail URL: http://www.omdbapi.com/?i=tt0133093](http://www.omdbapi.com/?i=tt0133093)
+* live site: (https://express-apis-omdb.pejmantheory.repl.co/)
 
 * You will need to modify the above URLs to include an entry in the query string for your API Key. The exact thing to add is `apikey=XXXXXXXXX` replacing the Xs with your key. How do we separate multiple key-values pairs in a query string?
 
