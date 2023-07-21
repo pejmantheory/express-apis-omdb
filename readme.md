@@ -13,6 +13,8 @@ We'll be creating an app that connects to [OMDB](http://www.omdbapi.com), a publ
 * Run `npm install` to install dependencies
 * Read the API [documentation](http://www.omdbapi.com).
 
+* live site: (https://express-apis-omdb.pejmantheory.repl.co)
+
 # Part 1: Search
 
 ## User Stories
